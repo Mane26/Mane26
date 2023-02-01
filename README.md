@@ -6,12 +6,12 @@
 **Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, pytest, venv, API, json, Linux, nginx, другие**
 
 ## Основной стек технологий
-![Python]
-![Django]
-![HTML]
-![CSS]
-![Git]
+- Python
+- Django
+- HTML
+- CSS
+- Git
 
 ## Контакты
-(https://t.me/89187649941)
-(s.m.m21-08-90@mail.ru)
+- (https://t.me/89187649941)
+- (s.m.m21-08-90@mail.ru)
